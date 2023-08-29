@@ -1,0 +1,6 @@
+
+@media all and (min-width:300px) and (max-width:1000px) {
+  .App{
+    flex-direction: column;
+  }
+}
